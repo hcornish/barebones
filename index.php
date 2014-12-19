@@ -12,7 +12,7 @@
 	<header role="banner">
 		<div class="container">
 			<h1 class="headline">Barebones</h1>
-			<p class="lede">An initial directory setup, style guide and pattern&#160;primer</p>
+			<p class="lede">An initial directory setup, style guide and pattern&#160;primer. making a change.</p>
 		</div><!--/container-->
 	</header><!--/@banner-->
 
